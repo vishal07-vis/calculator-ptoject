@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+ }
+
+ .button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+ }
+
+ .row{
+    margin: 12px 0;
+    text-align: center;
+ }
+ .row input{
+   
+    background-color: black;
+    color: white;
+    margin: 0%;
+    padding: 9px 66px;
+    border: 2px solid black;
+    border-radius: 5px;
+ }
+
+ #edit {
+    background-color: rgb(247, 162, 5);
+ }
+
+ #new-edit{
+    background-color: gray;
+ }
+
+ #num-edit{
+    background-color: black;
+    color: white;
+    size:  20px;
+ }
+
+ h1{
+    font-family: cursive;
+ }
